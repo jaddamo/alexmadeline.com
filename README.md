@@ -1,23 +1,15 @@
-```markdown
-Alex Madeline's personal website and web-portfolio.
+## Alex Madeline's personal website and web-portfolio.
 
-# Header 1
-## Header 2
-### Header 3
+Features:
+- Professional Pictures
+- Biography
+- Upcoming Events
+- Contact Alex
 
-- Bulleted
-- List
+## Icebox
+1. Instructional Vidoes
+2. Demos
+3. Previews 
+4. Class Offerings
+5. Create Title Icon
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaddamo/alexmadeline.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
